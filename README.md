@@ -13,7 +13,6 @@
 
 ---
 
-### 🛠️ Mi Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,azure,aws,gcp,terraform,mysql,postgres,mongodb,html,css,js,ts,angular,react,java,php,nodejs,express,docker,githubactions,linux,windows,bash" />
